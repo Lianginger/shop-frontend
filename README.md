@@ -1,29 +1,9 @@
 # shop-frontend
 
-## Project setup
-```
-npm install
-```
+這是一個簡單的 Vue 純前端商品展示頁面。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Demo site](https://lianginger.github.io/shop-frontend/dist/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+API 商品資料串後端專案 => [shop-backend](https://github.com/Lianginger/shop-backend)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![screenshot](https://github.com/Lianginger/shop-frontend/blob/master/screenshot.JPG)
